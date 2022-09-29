@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valenorduna&label=Profile%20views&color=0e75b6&style=flat" alt="valenorduna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valenorduna" alt="valenorduna" /></a> </p>
-<img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-auditoria-23.gif"/>
+<img margin-left="50px"src="https://images.hive.blog/p/GTCx6Xsvc3waciBia5sMXa6dwqtvaNg8zgFVzn3sv1iWfDVjUqQR?format=match&mode=fit"/>
 - 🔭 Actualmente estoy trabajando en [Portafolio Valentin Orduña](https://github.com/ValenOrduna/Portafolio-Personal)
 
 - 🌱 Actualmente estoy aprendiendo **Backend y Ciberseguridad**
