@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valenorduna&show_icons=true&locale=en" alt="valenorduna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valenorduna&" alt="valenorduna" /></p>
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/d1b5431fa68ce456a4f3d3db29f314634d5dea3a/github-contribution-grid-snake.svg"/>
