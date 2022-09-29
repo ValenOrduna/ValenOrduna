@@ -9,10 +9,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **Backend y Ciberseguridad**
 
-- 👯 Busco colaborar en [No Country](https://github.com/No-Country/C7-43reactNative)
-
-- 🤝 Estoy buscando ayuda con [Portafolio Valentin Orduña](https://github.com/ValenOrduna/Portafolio-Personal)
-
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://valentinorduna.vercel.app/](https://valentinorduna.vercel.app/)
 
 - 💬 Preguntame sobre **React,Js,Jquery,WordPress,Marketing Digital**
