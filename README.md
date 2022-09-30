@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Yo soy Valentin Orduña</h1>
-<h3 align="center">Soy un desarrollador Front End y Experto en Marketing Digital</h3>
+<h1 align="center">Hola 👋 Yo soy Valentín Orduña</h1>
+<h3 align="center">Soy desarrollador Front End y Experto en Marketing Digital</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valenorduna&label=Profile%20views&color=0e75b6&style=flat" alt="valenorduna" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **Backend y Ciberseguridad**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://valentinorduna.vercel.app/](https://valentinorduna.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://valentinorduna.vercel.app/](https://valentinorduna.vercel.app/)
 
-- 💬 Preguntame sobre **React,Js,Jquery,WordPress,Marketing Digital**
+- 💬 Preguntame sobre **React, Js, Jquery, WordPress, Marketing Digital**
 
-- 📫 Como llegar a mi **valenordu@hotmail.com**
+- 📫 Cómo llegar a mí **valenordu@hotmail.com**
 
-- ⚡ Mi diversion **Mi pasatiempo principal es la musica, me divierto mucho y es lo que amo**
+- ⚡ Mi diversión **Mi pasatiempo principal es la música, me divierto mucho y es lo que amo**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
